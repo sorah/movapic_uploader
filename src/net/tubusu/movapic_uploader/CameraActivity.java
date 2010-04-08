@@ -8,7 +8,6 @@ import android.os.Bundle;
 
 public class CameraActivity extends Activity {
   CameraView camera_view;
-  MovapicConfig db;
 
   /** Called when the activity is first created. */
   @Override
