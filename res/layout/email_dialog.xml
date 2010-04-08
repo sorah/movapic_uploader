@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+android:id="@+id/widget29"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:orientation="vertical"
+xmlns:android="http://schemas.android.com/apk/res/android"
+>
+<TextView
+android:id="@+id/label_email_diag"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:text="Please input your email for post to movapic."
+>
+</TextView>
+<EditText
+android:id="@+id/textbox_email_diag"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:layout_marginLeft="5px"
+android:layout_marginRight="5px"
+android:textSize="18sp"
+>
+</EditText>
+<Button
+android:id="@+id/ok_btn_email_diag"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:text="OK"
+>
+</Button>
+</LinearLayout>
+
